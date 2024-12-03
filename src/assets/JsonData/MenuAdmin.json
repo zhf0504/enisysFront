@@ -1,0 +1,119 @@
+[
+  {
+    "displayNo": 0,
+    "oyaMenuName": "契約",
+    "deviceFlag": true,
+    "subMenuList": [
+      {
+        "displayNo": 0,
+        "subMenuName": "契約登録",
+        "router": "/ContrRegisterInit"
+      },
+      {
+        "displayNo": 1,
+        "subMenuName": "契約検索",
+        "router": "/ContrSearch"
+      }
+    ]
+  },
+  {
+    "displayNo": 1,
+    "oyaMenuName": "会員",
+    "deviceFlag": true,
+    "subMenuList": [
+      {
+        "displayNo": 0,
+        "subMenuName": "会員検索",
+        "router": "/MemSearch"
+      }
+    ]
+  },
+  {
+    "displayNo": 2,
+    "oyaMenuName": "支援実績",
+    "deviceFlag": true,
+    "subMenuList": [
+      {
+        "displayNo": 0,
+        "subMenuName": "支援実績登録",
+        "router": "/Menu1a"
+      },
+      {
+        "displayNo": 1,
+        "subMenuName": "支援実績検索",
+        "router": "/SupportResultsSearch"
+      }
+    ]
+  },
+  {
+    "displayNo": 3,
+    "oyaMenuName": "経費精算",
+    "deviceFlag": true,
+    "subMenuList": [
+      {
+        "displayNo": 0,
+        "subMenuName": "経費登録",
+        "router": "/ExpRegister"
+      },
+      {
+        "displayNo": 1,
+        "subMenuName": "経費検索",
+        "router": "/Menu1b"
+      }
+    ]
+  },
+  {
+    "displayNo": 4,
+    "oyaMenuName": "経理",
+    "deviceFlag": false,
+    "subMenuList": [
+      {
+        "displayNo": 0,
+        "subMenuName": "会計バッチ起動",
+        "router": "/Menu1a"
+      },
+      {
+        "displayNo": 1,
+        "subMenuName": "請求検索",
+        "router": "/Menu1a"
+      },
+      {
+        "displayNo": 2,
+        "subMenuName": "口座振替入金消込",
+        "router": "/Menu1b"
+      },
+      {
+        "displayNo": 3,
+        "subMenuName": "入金消込",
+        "router": "/Menu1b"
+      },
+      {
+        "displayNo": 4,
+        "subMenuName": "売上検索",
+        "router": "/Menu1a"
+      },
+      {
+        "displayNo": 5,
+        "subMenuName": "売上集計表",
+        "router": "/Menu1a"
+      }
+    ]
+  },
+  {
+    "displayNo": 5,
+    "oyaMenuName": "マスタ管理",
+    "deviceFlag": false,
+    "subMenuList": [
+      {
+        "displayNo": 0,
+        "subMenuName": "従業員マスタ登録",
+        "router": "/EmpMstRegister"
+      },
+      {
+        "displayNo": 1,
+        "subMenuName": "従業員マスタ一覧",
+        "router": "/EmpMstList"
+      }
+    ]
+  }
+]

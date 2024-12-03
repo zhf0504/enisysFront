@@ -1,0 +1,86 @@
+[
+  {
+    "idCode": "001",
+    "jugyoin_nm": "従業員A",
+    "jigyosyo_nm": "東京事務所",
+    "syokusyu": "支援員",
+    "social_give_phone": "012-3425-6789"
+  },
+  {
+    "idCode": "002",
+    "jugyoin_nm": "従業員B",
+    "jigyosyo_nm": "大阪事業所",
+    "syokusyu": "相談員",
+    "social_give_phone": "070-7605-4321"
+  },
+  {
+    "idCode": "003",
+    "jugyoin_nm": "従業員C",
+    "jigyosyo_nm": "福岡事業所",
+    "syokusyu": "事務員",
+    "social_give_phone": "011-2293-3445"
+  },
+  {
+    "idCode": "004",
+    "jugyoin_nm": "従業員D",
+    "jigyosyo_nm": "名古屋事務所",
+    "syokusyu": "責任者",
+    "social_give_phone": "012-3425-6789"
+  },
+  {
+    "idCode": "005",
+    "jugyoin_nm": "従業員E",
+    "jigyosyo_nm": "立川事業所",
+    "syokusyu": "総務",
+    "social_give_phone": "070-7605-4321"
+  },
+  {
+    "idCode": "006",
+    "jugyoin_nm": "従業員F",
+    "jigyosyo_nm": "千葉事業所",
+    "syokusyu": "経理",
+    "social_give_phone": "011-2293-3445"
+  },
+  {
+    "idCode": "007",
+    "jugyoin_nm": "従業員G",
+    "jigyosyo_nm": "横浜事務所",
+    "syokusyu": "理事",
+    "social_give_phone": "012-3425-6789"
+  },
+  {
+    "idCode": "008",
+    "jugyoin_nm": "従業員K",
+    "jigyosyo_nm": "中間事業所",
+    "syokusyu": "従業員",
+    "social_give_phone": "070-7605-4321"
+  },
+  {
+    "idCode": "009",
+    "jugyoin_nm": "従業員L",
+    "jigyosyo_nm": "熊本事業所",
+    "syokusyu": "会員",
+    "social_give_phone": "011-2293-3445"
+  },
+  {
+    "idCode": "010",
+    "jugyoin_nm": "従業員M",
+    "jigyosyo_nm": "川口事務所",
+    "syokusyu": "営業員",
+    "social_give_phone": "012-3425-6789"
+  },
+  {
+    "idCode": "011",
+    "jugyoin_nm": "従業員N",
+    "jigyosyo_nm": "柏事業所",
+    "syokusyu": "従業員",
+    "social_give_phone": "070-7605-4321"
+  },
+  {
+    "idCode": "012",
+    "jugyoin_nm": "従業員O",
+    "jigyosyo_nm": "相模原事業所",
+    "syokusyu": "会員",
+    "social_give_phone": "011-2293-3445"
+  }
+]

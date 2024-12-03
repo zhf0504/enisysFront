@@ -1,0 +1,45 @@
+{
+  "oyaMenuList": [
+    {
+      "displayNo": 0,
+      "oyaMenuName": "契約",
+      "deviceFlag": true,
+      "subMenuList": [
+        {
+          "displayNo": 0,
+          "subMenuName": "契約登録"
+        },
+        {
+          "displayNo": 1,
+          "subMenuName": "契約検索"
+        }
+      ]
+    },
+    {
+      "displayNo": 1,
+      "oyaMenuName": "会員",
+      "deviceFlag": true,
+      "subMenuList": [
+        {
+          "displayNo": 0,
+          "subMenuName": "会員検索"
+        }
+      ]
+    },
+    {
+      "displayNo": 2,
+      "oyaMenuName": "支援実績",
+      "deviceFlag": true,
+      "subMenuList": [
+        {
+          "displayNo": 0,
+          "subMenuName": "支援実績登録"
+        },
+        {
+          "displayNo": 1,
+          "subMenuName": "支援実績検索"
+        }
+      ]
+    }
+  ]
+}

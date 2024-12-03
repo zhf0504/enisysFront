@@ -1,0 +1,50 @@
+[
+  {
+    "implementationDate": "2024/10/01",
+    "jigyosyoCd": "A001",
+    "memberName": "田中 太郎",
+    "type": "会員費",
+    "abstract": "2024年度会員費の支払い",
+    "amount": "12000"
+  },
+  {
+    "implementationDate": "2024/10/02",
+    "jigyosyoCd": "B002",
+    "memberName": "佐藤 花子",
+    "type": "セミナー参加費",
+    "abstract": "セミナー「ビジネスマナー」の参加費",
+    "amount": "5000"
+  },
+  {
+    "implementationDate": "2024/10/03",
+    "jigyosyoCd": "C003",
+    "memberName": "鈴木 一郎",
+    "type": "講習費",
+    "abstract": "ビジネス英語講座の受講料",
+    "amount": "20000"
+  },
+  {
+    "implementationDate": "2024/10/04",
+    "jigyosyoCd": "D004",
+    "memberName": "高橋 美咲",
+    "type": "書籍購入",
+    "abstract": "『マーケティング戦略』書籍購入費",
+    "amount": "3500"
+  },
+  {
+    "implementationDate": "2024/10/05",
+    "jigyosyoCd": "E005",
+    "memberName": "吉田 恵理",
+    "type": "ワークショップ参加費",
+    "abstract": "リーダーシップワークショップの参加費",
+    "amount": "8000"
+  },
+  {
+    "implementationDate": "2024/10/06",
+    "jigyosyoCd": "F006",
+    "memberName": "山田 薫",
+    "type": "会員費",
+    "abstract": "2024年度会員費の支払い",
+    "amount": "12000"
+  }
+]

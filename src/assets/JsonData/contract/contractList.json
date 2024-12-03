@@ -1,0 +1,122 @@
+[
+  {
+    "full_nm": "えにし 太郎",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "口座振込",
+    "shibo": true,
+    "gyotei": false,
+    "manichi": true,
+    "sougi": true,
+    "nokotsu": false,
+    "relics": false,
+    "kinsen": true
+  },
+  {
+    "full_nm": "えにし 花子",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "振込",
+    "shibo": false,
+    "gyotei": true,
+    "manichi": false,
+    "sougi": true,
+    "nokotsu": true,
+    "relics": false,
+    "kinsen": false
+  },
+  {
+    "full_nm": "ボーワッチダラ ディサーナヤカ",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "集金",
+    "shibo": true,
+    "gyotei": true,
+    "manichi": true,
+    "sougi": false,
+    "nokotsu": false,
+    "relics": true,
+    "kinsen": true
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "予備費",
+    "shibo": false,
+    "gyotei": false,
+    "manichi": false,
+    "sougi": true,
+    "nokotsu": true,
+    "relics": true,
+    "kinsen": false
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "口座振込",
+    "shibo": true,
+    "gyotei": true,
+    "manichi": true,
+    "sougi": false,
+    "nokotsu": false,
+    "relics": false,
+    "kinsen": true
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "振込",
+    "shibo": false,
+    "gyotei": true,
+    "manichi": true,
+    "sougi": true,
+    "nokotsu": false,
+    "relics": true,
+    "kinsen": false
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "集金",
+    "shibo": false,
+    "gyotei": false,
+    "manichi": false,
+    "sougi": false,
+    "nokotsu": true,
+    "relics": true,
+    "kinsen": false
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "予備費",
+    "shibo": true,
+    "gyotei": false,
+    "manichi": true,
+    "sougi": true,
+    "nokotsu": false,
+    "relics": false,
+    "kinsen": true
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "口座振込",
+    "shibo": false,
+    "gyotei": true,
+    "manichi": false,
+    "sougi": false,
+    "nokotsu": true,
+    "relics": true,
+    "kinsen": false
+  },
+  {
+    "full_nm": "XX XX",
+    "effective_period": "2024/09/01〜9999/12/31",
+    "billingMethod": "振込",
+    "shibo": true,
+    "gyotei": false,
+    "manichi": true,
+    "sougi": true,
+    "nokotsu": false,
+    "relics": false,
+    "kinsen": true
+  }
+]
